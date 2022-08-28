@@ -7,6 +7,8 @@
     - tg: https://t.me/andranna01
   
   
+  ##
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annandreeva)](https://github.com/annandreeva/github-readme-stats)
   
 
  
